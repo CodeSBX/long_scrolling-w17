@@ -4,7 +4,7 @@ $(document).ready(function() {
     $(window).load(function() {
       $("html, body").animate({ scrollTop: $(document).height() }, 1000);
     });
-    
+
     $(window).scroll( function(){
 
         /* Check the location of each desired element */
